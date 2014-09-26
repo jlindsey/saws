@@ -1,0 +1,13 @@
+saws(1) -- Switch AWS Credentials
+=================================
+
+## SYNOPSIS
+
+`saws --init`  
+`saws` [`-l --list`]  
+`saws` [`-c --create` | `-e --edit`] <NAME>
+
+## DESCRIPTION
+
+
+

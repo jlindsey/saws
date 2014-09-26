@@ -1,7 +1,6 @@
 #include <stdio.h>
+#include <gpgme.h>
 
 int main(void) {
-  puts("Hello world!");
-  return 0;
 }
 
