@@ -1,4 +1,4 @@
-saws -- **S**witch **AWS** Credentials
+saws -- Switch AWS Credentials
 ======================================
 
 README goes here.
